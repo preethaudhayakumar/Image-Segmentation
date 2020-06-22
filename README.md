@@ -23,3 +23,6 @@ Pseudocode
      4.   Check for Convergence
      
      5.   If it is not converged repeat from step2
+
+
+Note: io_data.py converts image format to text (vice-versa)
